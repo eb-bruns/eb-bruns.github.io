@@ -1,8 +1,8 @@
-## Welcome to the Centroid Share Site
+## TESTING THIS
 
 This resource is available to host temporary content so we don't have to upload and email files to each other.
 
-Please direct any questions to dan at carverd@colostate.edu
+Please direct any questions to BGCI at data@bgci.org
 
 ## Active Project Material
 
@@ -15,4 +15,4 @@ map and data for the project can be found [here](https://geospatialcentroid.gith
 
  > Results from GIS day survey
 
-[view results here](https://geospatialcentroid.github.io/docs/GeospatialTrainingSurvey.html)
+[view page here](https://github.com/eb-bruns/eb-bruns.github.io/blob/master/docs/Carya_laciniosa_SummaryReport-4.html)
