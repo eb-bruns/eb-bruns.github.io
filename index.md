@@ -1,20 +1,15 @@
-## TESTING THIS
+## Summary of conservation gap analysis
+# January 2023
 
-This resource is available to host temporary content so we don't have to upload and email files to each other.
+*Emily Beckman Bruns, Colin Khoury, Abby Meyer, Nan McCarry, Ray Mims, and Emily Warschefsky*
 
-Please direct any questions to BGCI at data@bgci.org
+# Taxon-level summaries of our conservation gap analysis
 
-## Active Project Material
+ > <a href="https://eb-bruns.github.io/docs/Carya_laciniosa_SummaryReport-4.html" target="_blank">Carya laciniosa</a>
 
-### Enviroscreen
+ > <a href="https://eb-bruns.github.io/docs/Prunus_ilicifolia_SummaryReport-2.html" target="_blank">Prunus ilicifolia</a>
 
+
+
+## here's another example from Dan, for reference right now...
 map and data for the project can be found [here](https://geospatialcentroid.github.io/enviroscreen/content)
-
-
-### Survey Results
-
- > Results from GIS day survey
-
-[view page here](https://eb-bruns.github.io/docs/Carya_laciniosa_SummaryReport-4.html)
-
-https://geospatialcentroid.github.io/docs/GeospatialTrainingSurvey.html
