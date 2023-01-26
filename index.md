@@ -15,4 +15,6 @@ map and data for the project can be found [here](https://geospatialcentroid.gith
 
  > Results from GIS day survey
 
-[view page here](https://github.com/eb-bruns/eb-bruns.github.io/blob/master/docs/Carya_laciniosa_SummaryReport-4.html)
+[view page here](https://eb-bruns.github.io/docs/Carya_laciniosa_SummaryReport-4.html)
+
+https://geospatialcentroid.github.io/docs/GeospatialTrainingSurvey.html
