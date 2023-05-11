@@ -19,13 +19,11 @@ Khoury, C., **Bruns, E.B.**, Warschefsky, E., Meyer, A. (2022, July 26). *North 
 
 Khoury, C., Meyer, A., **Bruns, E.B.**, Warschefsky, E., Mims, R. (2022, June 16). *Initial results from a global ex situ accession-level survey – Opportunities for collaboration between federal seed banks and botanic gardens* (Presentation). Virtual: Plant Germplasm Operations Committee Meeting, USDA ARS.
 
-XX **Bruns, E.B.** (2022, April 6). *Initial results: Ex situ accession-level survey* (Presentation). Virtual: North American Fruit and Nut Tree Crop Wild Relatives Working Group Meeting.
-
 **Beckman, E.**, & Pence, V. (2021, October 19). *Using a Global List of Exceptional Status to Inform Strategic Conservation Action* (Presentation). Virtual: Conserving Exceptional Plants Virtual Symposium.
 
 Rollinson, C., Shah, S., **Beckman, E.** (2021, August 6). *Using species environmental niche overlap to quantify the value of botanical garden accessions and ex situ habitat suitability* (Poster presentation). Virtual: Ecological Society of America Annual Meeting.
 
-XX **Beckman, E.**, & Meyer, A. (2021, May 26). *Metacollections!* (Presentation). Virtual: North American Fruit and Nut Tree Crop Wild Relative Conservation Meeting.
+**Beckman, E.**, & Meyer, A. (2021, May 26). *Metacollections!* (Presentation). Virtual: North American Fruit and Nut Tree Crop Wild Relative Conservation Meeting.
 
 **Beckman, E.**, Meyer, A., Man, G., Pivorunas, D., & Westwood, M. (2019, May 4). *Prioritizing species, populations, and regions for ex situ collecting: Threatened native U.S. oaks as a case study* (Presentation). Chicago, IL: Center for Plant Conservation National Meeting.
 
