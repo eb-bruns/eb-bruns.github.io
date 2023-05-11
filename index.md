@@ -3,9 +3,9 @@ title: Portfolio
 description: Emily (Beckman) Bruns
 ---
 
-<a href="https://eb-bruns.github.io.github.io/pubs" target="_blank">Publications</a>
+<a href="https://eb-bruns.github.io/pubs" target="_blank">Publications</a>
 <br>
-<a href="https://eb-bruns.github.io.github.io/prez" target="_blank">Presentations</a>
+<a href="https://eb-bruns.github.io/prez" target="_blank">Presentations</a>
 <br>
 <a href="https://github.com/eb-bruns" target="_blank">GitHub</a>
 <br>
