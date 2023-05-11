@@ -7,6 +7,8 @@ description: Emily (Beckman) Bruns
 
 #### Listed in reverse chronological order
 
+<br>
+
 <a href="https://northamericanfruitnuttreecwr.github.io" target="_blank"><img src="https://eb-bruns.github.io/portfolio/CWR_webpage.jpg"/></a>
 
 <a href="https://www.science.org/doi/10.1126/science.add2889" target="_blank"><img src="https://eb-bruns.github.io/portfolio/ew_article.jpg"/></a>

@@ -5,6 +5,8 @@ description: Emily (Beckman) Bruns
 
 #### Listed in reverse chronological order
 
+<br>
+
 **Bruns, E.B.**, Alvarez-Clare, S., Byrne, A., Gurnoe, T., Hoban, S., Meyer, A., Thompson, P., Westwood, M. (2022, September 1). *Exploring a conservation gap analysis methodology: Overview of our progress and a space for adaptation and application* (Workshop). Las Cruces, NM: International Oak Society Conference.
 
 **Bruns, E.B.**, Pence, V.C., Meyer, A., Westwood, M., Pritchard, H.W., Linsky, J., Gratzfeld, J. (2022, August 30). *Defining and prioritizing exceptional species: Could oaks be a model group for expanding strategic ex situ conservation?* (Poster presentation). Las Cruces, NM: International Oak Society Conference.
