@@ -9,6 +9,10 @@ description: Emily (Beckman) Bruns
 
 <br>
 
+Pence, V.C., & **Bruns, E.B.** (2023). *Scratching the Surface:  In Vitro Research Critical for Conserving Exceptional Plants to Scale*. Manuscript in preparation.
+
+**Bruns, E.B.**, Westwood, M., Griffith, M.P., Hipp, A.L., Lobdell, M., Meyer, A., Rollinson, C.R., Still, S., Worcester, L., & Hoban, S. (in press). Quantifying Endangerment Value: a Promising Tool to Support Curation Decisions. *Sibbaldia*.
+
 <a href="https://northamericanfruitnuttreecwr.github.io" target="_blank"><img src="https://eb-bruns.github.io/portfolio/CWR_webpage.jpg"/></a>
 
 <a href="https://www.science.org/doi/10.1126/science.add2889" target="_blank"><img src="https://eb-bruns.github.io/portfolio/ew_article.jpg"/></a>
