@@ -11,7 +11,7 @@ description: Emily (Beckman) Bruns
 
 Pence, V.C., & **Bruns, E.B.** (2023). *Scratching the Surface:  In Vitro Research Critical for Conserving Exceptional Plants to Scale*. Manuscript in preparation.
 
-<a href="https://northamericanfruitnuttreecwr.github.io" target="_blank"><img src="https://eb-bruns.github.io/portfolio/sibbaldia_article.jpg"/></a>
+<a href="https://journals.rbge.org.uk/rbgesib/article/view/1970" target="_blank"><img src="https://eb-bruns.github.io/portfolio/sibbaldia_article.jpg"/></a>
 
 <a href="https://northamericanfruitnuttreecwr.github.io" target="_blank"><img src="https://eb-bruns.github.io/portfolio/CWR_webpage.jpg"/></a>
 
