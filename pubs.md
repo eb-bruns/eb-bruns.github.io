@@ -47,3 +47,7 @@ Pence, V.C., & **Bruns, E.B.** (2023). *Scratching the Surface:  In Vitro Resear
 
 <a href="https://globaltrees.org/wp-content/uploads/2017/09/Oaks5.pdf" target="_blank"><img src="https://eb-bruns.github.io/portfolio/us_rl_oaks.jpg"/></a>
 
+<br>
+<br>
+
+### <a href="https://eb-bruns.github.io">Back to portfolio</a>
