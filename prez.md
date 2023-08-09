@@ -38,3 +38,8 @@ Westwood, M., Allenstein, P., **Beckman, E.**, Boland, T., Lobdell, M., Meyer, A
 **Beckman, E.**, Westwood, M., Meyer, A., & Man, G. (2017, June 21). *Protecting Native U.S. Oaks: In situ and Ex situ Conservation Gap Analysis* (Poster presentation). Hamilton, ON, Canada: American Public Gardens Association Annual Conference. 
 
 Westwood, M., **Beckman, E.**, & Gorener, V. (2015, October 18). *IUCN (International Union for Conservation of Nature) Red List workshop for oaks* (Workshop). Lisle, IL: 8th International Oak Society Conference.
+
+<br>
+<br>
+
+## <a href="https://eb-bruns.github.io">Back to portfolio</a>
