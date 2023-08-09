@@ -50,4 +50,4 @@ Pence, V.C., & **Bruns, E.B.** (2023). *Scratching the Surface:  In Vitro Resear
 <br>
 <br>
 
-### <a href="https://eb-bruns.github.io">Back to portfolio</a>
+## <a href="https://eb-bruns.github.io">Back to portfolio</a>
