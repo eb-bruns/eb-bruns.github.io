@@ -10,11 +10,15 @@ description: Emily (Beckman) Bruns
 <br>
 <a href="https://journals.rbge.org.uk/rbgesib/article/view/1970" target="_blank"><img src="https://eb-bruns.github.io/portfolio/sibbaldia_article.jpg"/></a>
 <br>
+<br>
 <a href="https://northamericanfruitnuttreecwr.github.io" target="_blank"><img src="https://eb-bruns.github.io/portfolio/CWR_webpage.jpg"/></a>
+<br>
 <br>
 <a href="https://www.science.org/doi/10.1126/science.add2889" target="_blank"><img src="https://eb-bruns.github.io/portfolio/ew_article.jpg"/></a>
 <br>
+<br>
 <a href="https://www.bgci.org/news-events/new-integrated-collections-development-report-led-by-the-morton-arboretum/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/collection_value.jpg"/></a>
+<br>
 <br>
 <a href="https://www.globalconservationconsortia.org/resources/conservation-gap-analysis-of-native-magnolias-of-the-u-s-and-canada/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/magnolia_NA_analysis.jpg"/></a>
 <br>
