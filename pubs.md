@@ -20,7 +20,7 @@ description: Emily (Beckman) Bruns
 <br><br>
 <a href="https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10305" target="_blank"><img src="https://eb-bruns.github.io/portfolio/us_trees_article.jpg"/></a>
 <br><br>
-<a href="http://www.se-pca.org/ex-situ-gap-analysis/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/sepca_analysis.jpg"/></a>
+<a href="https://www.bgci.org/wp/wp-content/uploads/2022/07/SE-PCA-Ex-situ-Gap-Analysis-2022-v7-1-22b.pdf" target="_blank"><img src="https://eb-bruns.github.io/portfolio/sepca_analysis.jpg"/></a>
 <br><br>
 <a href="https://www.mdpi.com/2223-7747/11/12/1528/html" target="_blank"><img src="https://eb-bruns.github.io/portfolio/cryo_article.jpg"/></a>
 <br><br>
