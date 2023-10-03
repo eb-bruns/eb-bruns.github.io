@@ -42,6 +42,6 @@ description: Emily (Beckman) Bruns
 <br><br>
 <a href="https://www.bgci.org/resources/bgci-tools-and-resources/toward-the-metacollection-coordinating-conservation-collections-to-safeguard-plant-diversity/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/metacollections.jpg"/></a>
 <br><br>
-<a href="https://globaltrees.org/wp-content/uploads/2017/09/Oaks5.pdf" target="_blank"><img src="https://eb-bruns.github.io/portfolio/us_rl_oaks.jpg"/></a>
+<a href="https://mortonarb.org/app/uploads/2021/05/Red-List-of-Oaks-2017.pdf" target="_blank"><img src="https://eb-bruns.github.io/portfolio/us_rl_oaks.jpg"/></a>
 <br><br>
 ## <a href="https://eb-bruns.github.io">Back to portfolio</a>
