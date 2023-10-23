@@ -4,7 +4,7 @@ description: Emily (Beckman) Bruns
 ---
 
 ## <a href="https://eb-bruns.github.io/pubs">Publications</a>
-## <a href="https://eb-bruns.github.io/prez">Presentations</a>
+## <a href="https://eb-bruns.github.io/cv">Curriculum Vitae</a>
 ## <a href="https://github.com/eb-bruns" target="_blank">GitHub</a>
 ## <a href="https://www.linkedin.com/in/emily-beckman-bruns/" target="_blank">LinkedIn</a>
 <br>
