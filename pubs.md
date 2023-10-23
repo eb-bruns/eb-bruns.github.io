@@ -34,7 +34,7 @@ description: Emily (Beckman) Bruns
 <br><br>
 <a href="https://mortonarb.org/science/projects/conservation-gap-analysis-of-u-s-trees-in-nine-priority-genera/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/nine_genera_reports.jpg"/></a>
 <br><br>
-<a href="https://www.internationaloaksociety.org/content/propagation-manual-quercus—-spanish" target="_blank"><img src="https://eb-bruns.github.io/portfolio/prop_manual.jpg"/></a>
+<a href="https://www.bgci.org/wp/wp-content/uploads/2021/01/MANUAL-PARA-LA-PROPAGACION-DE-QUERCUS.pdf" target="_blank"><img src="https://eb-bruns.github.io/portfolio/prop_manual.jpg"/></a>
 <br><br>
 <a href="https://globaltrees.org/resources/the-red-list-of-oaks-2020/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/rl_oaks_2020.jpg"/></a>
 <br><br>
