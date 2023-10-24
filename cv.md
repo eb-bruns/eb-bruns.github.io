@@ -9,6 +9,7 @@ description: Emily (Beckman) Bruns
 
 <img src="https://eb-bruns.github.io/CV/EmilyBruns_CV-1.png" alt="Emily Bruns Curriculum Vitae, page 1"/>
 <img src="https://eb-bruns.github.io/CV/EmilyBruns_CV-2.png" alt="Emily Bruns Curriculum Vitae, page 2"/>
+<img src="https://eb-bruns.github.io/CV/EmilyBruns_CV-3.png" alt="Emily Bruns Curriculum Vitae, page 3"/>
 
 <br><br>
 
