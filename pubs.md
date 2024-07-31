@@ -1,13 +1,15 @@
 ---
 title: Publications
-description: Emily (Beckman) Bruns
+description: Emily Beckman Bruns
 ---
 
 ### Click each image to open the full report or article
 
-#### Listed in reverse chronological order
+#### Listed in reverse chronological order (most recent at the top)
 
 <br>
+<a href="https://link.springer.com/article/10.1007/s11627-023-10405-w" target="_blank"><img src="https://eb-bruns.github.io/portfolio/scratching_the_surface_article.jpg"/></a>
+<br><br>
 <a href="https://journals.rbge.org.uk/rbgesib/article/view/1970" target="_blank"><img src="https://eb-bruns.github.io/portfolio/sibbaldia_article.jpg"/></a>
 <br><br>
 <a href="https://northamericanfruitnuttreecwr.github.io" target="_blank"><img src="https://eb-bruns.github.io/portfolio/CWR_webpage.jpg"/></a>
