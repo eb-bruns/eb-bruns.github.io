@@ -3,7 +3,7 @@ title: Presentations
 description: Emily Beckman Bruns
 ---
 
-#### Listed in reverse chronological order
+#### Listed in reverse chronological order (most recent at the top)
 
 <br>
 
