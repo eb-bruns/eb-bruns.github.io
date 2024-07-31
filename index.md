@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-description: Emily (Beckman) Bruns
+description: Emily Beckman Bruns
 ---
 
 ## <a href="https://eb-bruns.github.io/pubs">Publications</a>
