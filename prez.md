@@ -1,6 +1,6 @@
 ---
 title: Presentations
-description: Emily (Beckman) Bruns
+description: Emily Beckman Bruns
 ---
 
 #### Listed in reverse chronological order
