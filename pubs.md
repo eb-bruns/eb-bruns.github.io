@@ -8,16 +8,20 @@ description: Emily Beckman Bruns
 #### Listed in reverse chronological order (most recent at the top)
 
 <br>
+<a href="https://link.springer.com/article/10.1007/s11627-023-10405-w" target="_blank"><img src="https://eb-bruns.github.io/portfolio/symatry_article.jpg"/></a>
+<br><br><br>
 <a href="https://link.springer.com/article/10.1007/s11627-023-10405-w" target="_blank"><img src="https://eb-bruns.github.io/portfolio/scratching_the_surface_article.jpg"/></a>
-<br><br>
+<br><br><br>
 <a href="https://journals.rbge.org.uk/rbgesib/article/view/1970" target="_blank"><img src="https://eb-bruns.github.io/portfolio/sibbaldia_article.jpg"/></a>
-<br><br>
+<br><br><br>
 <a href="https://northamericanfruitnuttreecwr.github.io" target="_blank"><img src="https://eb-bruns.github.io/portfolio/CWR_webpage.jpg"/></a>
 <br><br>
 <a href="https://www.science.org/doi/10.1126/science.add2889" target="_blank"><img src="https://eb-bruns.github.io/portfolio/ew_article.jpg"/></a>
 <br><br>
 <a href="https://www.bgci.org/news-events/new-integrated-collections-development-report-led-by-the-morton-arboretum/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/collection_value.jpg"/></a>
 <br><br>
+<a href="https://link.springer.com/article/10.1007/s11627-023-10405-w" target="_blank"><img src="https://eb-bruns.github.io/portfolio/cryo_article2.jpg"/></a>
+<br><br><br>
 <a href="https://www.globalconservationconsortia.org/resources/conservation-gap-analysis-of-native-magnolias-of-the-u-s-and-canada/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/magnolia_NA_analysis.jpg"/></a>
 <br><br>
 <a href="https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10305" target="_blank"><img src="https://eb-bruns.github.io/portfolio/us_trees_article.jpg"/></a>
