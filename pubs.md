@@ -22,7 +22,7 @@ description: Emily Beckman Bruns
 <br><br><br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0011224022001444?via%3Dihub" target="_blank"><img src="https://eb-bruns.github.io/portfolio/cryo_article2.jpg"/></a>
 <br><br><br>
-<a href="https://www.globalconservationconsortia.org/resources/conservation-gap-analysis-of-native-magnolias-of-the-u-s-and-canada/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/magnolia_NA_analysis.jpg"/></a>
+<a href="https://www.bgci.org/news-events/conservation-gap-analysis-of-native-magnolias-of-the-u-s-and-canada-published/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/magnolia_NA_analysis.jpg"/></a>
 <br><br><br>
 <a href="https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10305" target="_blank"><img src="https://eb-bruns.github.io/portfolio/us_trees_article.jpg"/></a>
 <br><br><br>
@@ -32,7 +32,7 @@ description: Emily Beckman Bruns
 <br><br><br>
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/eva.13391" target="_blank"><img src="https://eb-bruns.github.io/portfolio/havardii_article.jpg"/></a>
 <br><br><br>
-<a href="https://www.globalconservationconsortia.org/resources/global-conservation-gap-analysis-of-magnolia/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/magnolia_global_analysis.jpg"/></a>
+<a href=https://www.bgci.org/resources/bgci-tools-and-resources/global-conservation-gap-analysis-of-magnolia/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/magnolia_global_analysis.jpg"/></a>
 <br><br><br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0006320721004924" target="_blank"><img src="https://eb-bruns.github.io/portfolio/exceptional1_article.jpg"/></a>
 <br><br><br>
@@ -42,7 +42,7 @@ description: Emily Beckman Bruns
 <br><br><br>
 <a href="https://www.bgci.org/wp/wp-content/uploads/2021/01/MANUAL-PARA-LA-PROPAGACION-DE-QUERCUS.pdf" target="_blank"><img src="https://eb-bruns.github.io/portfolio/prop_manual.jpg"/></a>
 <br><br><br>
-<a href="https://usercontent.one/wp/www.globalconservationconsortia.org/wp-content/uploads/2021/08/RedListOaks2020.pdf" target="_blank"><img src="https://eb-bruns.github.io/portfolio/rl_oaks_2020.jpg"/></a>
+<a href="https://www.bgci.org/resources/bgci-tools-and-resources/the-red-list-of-oaks-2020/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/rl_oaks_2020.jpg"/></a>
 <br><br><br>
 <a href="https://mortonarb.org/science/projects/conservation-gap-analysis-of-native-u-s-oaks/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/oak_analysis.jpg"/></a>
 <br><br><br>
