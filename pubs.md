@@ -32,7 +32,7 @@ description: Emily Beckman Bruns
 <br><br><br>
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/eva.13391" target="_blank"><img src="https://eb-bruns.github.io/portfolio/havardii_article.jpg"/></a>
 <br><br><br>
-<a href=https://www.bgci.org/resources/bgci-tools-and-resources/global-conservation-gap-analysis-of-magnolia/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/magnolia_global_analysis.jpg"/></a>
+<a href="https://www.bgci.org/resources/bgci-tools-and-resources/global-conservation-gap-analysis-of-magnolia/" target="_blank"><img src="https://eb-bruns.github.io/portfolio/magnolia_global_analysis.jpg"/></a>
 <br><br><br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0006320721004924" target="_blank"><img src="https://eb-bruns.github.io/portfolio/exceptional1_article.jpg"/></a>
 <br><br><br>
