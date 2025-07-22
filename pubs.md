@@ -8,6 +8,8 @@ description: Emily Beckman Bruns
 #### Listed in reverse chronological order (most recent at the top)
 
 <br>
+<a href="https://www.bgci.org/wp/wp-content/uploads/2024/10/BGCI-USBG-Report_-Conservation-Horticulture_final2_10.22.24.pdf" target="_blank"><img src="https://eb-bruns.github.io/portfolio/conservation_hort.jpg"/></a>
+<br><br><br>
 <a href="https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10546" target="_blank"><img src="https://eb-bruns.github.io/portfolio/sympatry_article.jpg"/></a>
 <br><br><br>
 <a href="https://link.springer.com/article/10.1007/s11627-023-10405-w" target="_blank"><img src="https://eb-bruns.github.io/portfolio/scratching_the_surface_article.jpg"/></a>
